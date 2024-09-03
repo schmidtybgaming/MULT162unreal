@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/Blueprints1/Content/bp1.umap",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/Blueprints1/Content/BP_Variables.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/Blueprints1/Content/BP_Attack.uasset"
+			]
+		}
+	]
+}
