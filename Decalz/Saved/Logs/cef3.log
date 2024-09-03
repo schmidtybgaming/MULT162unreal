@@ -1,3 +1,0 @@
-[0829/133204.995:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0902/050259.122:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
-[0902/201434.667:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -103
