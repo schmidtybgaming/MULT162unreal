@@ -966,3 +966,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.18-21.27.37:111][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
 [2024.09.18-21.27.37:486][  0]LogTurnkeySupport: Completed device detection: Code = 0
 [2024.09.18-21.30.57:656][  0]LogDerivedDataCache: C:/Users/schmi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:24.929 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44642 files in 44792 folders with total size 17301 MiB.
+[2024.09.19-12.11.27:897][  0]LogDerivedDataCache: C:/Users/schmi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.320 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44642 files in 44792 folders with total size 17301 MiB.
