@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BluePrint6/Content/BP6Exercise1.umap",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BluePrint6/Content/Exercise2.umap",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BluePrint6/Content/E.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BluePrint6/Content/EMeshType.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BluePrint6/Content/BP_Enum.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BluePrint6/Content/BP_Enum_Child.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BluePrint6/Content/BP_Enum_Child1.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BluePrint6/Content/BP_Enum_Child2.uasset"
+			]
+		}
+	]
+}
