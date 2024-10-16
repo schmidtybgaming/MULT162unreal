@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/BP_Guide_Lecture5/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/BP_Guide_Lecture5/Content/JSchmidt_Blueprints5.umap",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/BP_Guide_Lecture5/Content/BP_Guide/BP_Guide_GameMode.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/BP_Guide_Lecture5/Content/BP_Guide/BP_Guide_HUD.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/BP_Guide_Lecture5/Content/BP_Guide/BP_Statue.uasset",
+				"C:/Users/schmi/Downloads/BP_Guide_Lecture5/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/schmi/Downloads/BP_Guide_Lecture5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+			]
+		}
+	]
+}
