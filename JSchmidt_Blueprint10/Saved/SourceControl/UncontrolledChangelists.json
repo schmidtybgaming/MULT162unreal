@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_Blueprint10/Content/Exercise1.umap",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_Blueprint10/Content/BP_.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_Blueprint10/Content/BP_Rotation.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_Blueprint10/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_Blueprint10/Content/Exercise2.umap",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_Blueprint10/Content/Ve.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_Blueprint10/Content/VectorBP.uasset"
+			]
+		}
+	]
+}
