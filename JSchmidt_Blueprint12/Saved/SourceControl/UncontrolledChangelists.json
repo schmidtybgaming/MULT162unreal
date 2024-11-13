@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/schmi/OneDrive/Desktop/UE5 no github assignments/JSchmidt_Blueprint12/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5 no github assignments/JSchmidt_Blueprint12/Content/Exercise1.umap",
+				"C:/Users/schmi/OneDrive/Desktop/UE5 no github assignments/JSchmidt_Blueprint12/Content/BP_Lamp.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5 no github assignments/JSchmidt_Blueprint12/Content/BP_GameItem.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5 no github assignments/JSchmidt_Blueprint12/Content/Exercise2.umap"
+			]
+		}
+	]
+}
