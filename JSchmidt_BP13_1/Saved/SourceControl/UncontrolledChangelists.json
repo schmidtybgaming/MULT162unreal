@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BP13_1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BP13_1/Content/Exercise1.umap",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BP13_1/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/schmi/OneDrive/Desktop/UE5JSchmidtMULT162/JSchmidt_BP13_1/Content/FirstPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
